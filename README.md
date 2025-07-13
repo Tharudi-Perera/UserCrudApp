@@ -4,11 +4,9 @@ This is a full stack user management web application developed using React.js fo
 
 The application enables users to perform basic CRUD operations — including creating new users, viewing a list of users, updating existing user information, and deleting users from the system. 
 
-On the frontend, React provides a responsive and intuitive interface, allowing smooth navigation and interaction with form fields and user lists. 
+On the frontend, React provides a responsive and intuitive interface, allowing smooth navigation and interaction with form fields and user lists. The backend is powered by Spring Boot, which exposes a RESTful API to handle HTTP requests and perform operations using Spring Data JPA. All user data is securely stored and managed in a MySQL database. 
 
-The backend is powered by Spring Boot, which exposes a RESTful API to handle HTTP requests and perform operations using Spring Data JPA. 
-
-All user data is securely stored and managed in a MySQL database. The application is structured with clear separation of concerns and follows a client-server architecture, making it a great demonstration of how frontend and backend technologies can work together to build scalable and maintainable software systems.
+The application is structured with clear separation of concerns and follows a client-server architecture, making it a great demonstration of how frontend and backend technologies can work together to build scalable and maintainable software systems.
 
 ## 🚀 Tech Stack
 
